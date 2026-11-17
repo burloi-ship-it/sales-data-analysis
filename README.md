@@ -127,15 +127,4 @@ Television: 30 units.
 - [ ] 🧪 Add unit tests with `pytest`
 - [ ] 🖥️ Add a CLI with `argparse`
 
----
-
-## 👤 Author
-
-**Burloi**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/<your-username>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-profile>)
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
